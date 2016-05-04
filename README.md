@@ -1,5 +1,5 @@
 # Monokai OSX Terminal Theme
-This repository contains a theme for the osx temrinal app in Monokai style.
+This repository contains a theme for the osx terminal app in Monokai style.
 
 ![Screenshot](screenshot.png)
 
