@@ -1,6 +1,8 @@
 # Monokai OSX Terminal Theme
 This repository contains a theme for the osx temrinal app in Monokai style.
 
+![Screenshot](screenshot.png)
+
 Just clone this repository or download the `Monokai.terminal` file and import it in your terminal app.
 
 ## Specials
